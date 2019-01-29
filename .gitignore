@@ -3,6 +3,7 @@ doc/
 jar/
 .classpath
 .project
-./settings
+/.settings
+/diagramas
 
 
